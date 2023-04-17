@@ -1,0 +1,8 @@
+MAGIC=636
+fast_ema_period=12
+slow_ema_period=26
+signal_period=9
+lot_size=0.01
+max_orders=10
+stop_loss=20.0
+take_profit=40.0
